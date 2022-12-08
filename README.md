@@ -63,9 +63,9 @@ Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%),
   
 ### Projects:
 
-<a href="https://karmafarm-app.herokuapp.com/" target="_blank" rel="noopener noreferrer">Karma Farm</a> - an ordering platform for KarmaFarm and its restaurant clients <br />
-<a href="https://soundwave-clone.herokuapp.com/" target="_blank" rel="noopener noreferrer">SoundWave</a> - a Soundcloud Clone <br />
-<a href="https://large-medium.herokuapp.com/" target="_blank" rel="noopener noreferrer">Large</a> - a Medium Clone <br />
+<a href="https://karmafarm.onrender.com/" target="_blank" rel="noopener noreferrer">Karma Farm</a> - an ordering platform for KarmaFarm and its restaurant clients <br />
+<a href="https://soundwave.onrender.com/" target="_blank" rel="noopener noreferrer">SoundWave</a> - a Soundcloud Clone <br />
+<a href="https://largeapp.onrender.com/" target="_blank" rel="noopener noreferrer">Large</a> - a Medium Clone <br />
 
   
 <!-- <table>
