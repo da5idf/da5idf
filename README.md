@@ -47,19 +47,6 @@ Future software developer. Former restaurant Owner. Rock climber <br/>
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestewinterton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
- 
-<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestewinterton&show_icons=true&theme=tokyonight) 
-
-Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories -->
-
-<!-- <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-</p> -->
   
 ### Projects:
 
@@ -67,31 +54,3 @@ Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%),
 <a href="https://soundwave.onrender.com/" target="_blank" rel="noopener noreferrer">SoundWave</a> - a Soundcloud Clone <br />
 <a href="https://largeapp.onrender.com/" target="_blank" rel="noopener noreferrer">Large</a> - a Medium Clone <br />
 
-  
-<!-- <table>
-  <tbody>
-    <tr>
-      <td width="25%" align="center">
-        <a href="https://karmafarm-app.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-          <img alt="KarmaFarm" 
-               src="https://user-images.githubusercontent.com/97040789/178278001-4199b666-ad8f-4fba-9891-9c7775af5fa0.png">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <a href="https://soundwave-clone.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-          <img alt="SoundWave" 
-               src="https://user-images.githubusercontent.com/97040789/178277917-89b3f41b-c0a7-4898-81eb-e51748bf3de7.png">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <a href="https://large-medium.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-          <img alt="Large" 
-              src="https://user-images.githubusercontent.com/97040789/178277734-232127bd-1273-4537-a128-08a0999b59ac.png">
-        </a>
-      </td>
-      <td width="25%" align="center"><a href="#">More projects <br/>coming soon!</a></td>
-      <td width="25%" align="center"></td>
-    </tr>
-  </tbody>
-</table> -->
-<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=da5idf&repo=karmafarm&theme=gotham&card_width=500)](https://github.com/da5idf/karmafarm) -->
